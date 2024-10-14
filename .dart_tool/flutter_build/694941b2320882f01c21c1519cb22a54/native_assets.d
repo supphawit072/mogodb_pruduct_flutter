@@ -1,0 +1,1 @@
+ D:\\instagarm_flutter\\mongo_flutter_lab1-master\\.dart_tool\\flutter_build\\694941b2320882f01c21c1519cb22a54\\native_assets.yaml: 
